@@ -1,0 +1,39 @@
+/*tag*/
+
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+p{
+  color:#66FF33 ;
+
+}
+
+h1{
+  color: #00FFFF;
+  text-align:center;
+}
+
+
+/* id */
+#worktag{
+  color:blue;
+}
+
+/*class*/
+#bluetext{
+  color:green;
+}
+
+html{
+  color:orange;
+  background-color: #CC66FF;
+}
+
+body{
+  font-family:'Indie Flower'
+}
+
+img{
+  border: 4px solid #CC0066;
+  text-orientation: center;
+
+}
